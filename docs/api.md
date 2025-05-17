@@ -7,6 +7,23 @@
 - Method
   - `GET`
 
+### Logout
+
+- URL
+  - `/api/logout`
+- Method
+  - `POST`
+- Headers:
+  - `Cookie`: `access_token=<accessToken>`
+- Response
+
+```json
+{
+  "status": "success",
+  "message": "Logout success"
+}
+```
+
 ### Get User logged in
 
 - URL
