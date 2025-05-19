@@ -1,4 +1,4 @@
-# Hono Neon Vercel Starter
+# Bun Hono Neon Vercel Starter
 
 A starter template for building web applications using Hono, Neon (Serverless Postgres), Drizzle ORM, and Bun, ready for deployment on Vercel. Includes Google OAuth2 authentication.
 
